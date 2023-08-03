@@ -1,0 +1,41 @@
+.cl1 {
+    color: rgb(247, 127, 147);
+    font-weight: bolder;
+    text-align: center;
+}
+
+.cl2 {
+    color: rgb(247, 127, 147);
+    font-weight: bolder;
+}
+
+.cl3 {
+    color: rgb(247, 127, 147);
+    font-weight: bolder;
+}
+
+.cl4 {
+    color: rgb(247, 127, 147);
+    font-weight: 100%;
+}
+
+body {
+    background-color: rgb(178, 243, 221);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #999;
+    padding: 8px;
+    text-align: left; 
+}
+
+p {
+    color: rgb(35, 109, 109);
+    text-align: center;
+}
+
